@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/task3calc/static/css/main.9c885730.css",
+    "main.js": "/task3calc/static/js/main.5686ba14.js",
+    "static/js/787.34beec18.chunk.js": "/task3calc/static/js/787.34beec18.chunk.js",
+    "index.html": "/task3calc/index.html",
+    "main.9c885730.css.map": "/task3calc/static/css/main.9c885730.css.map",
+    "main.5686ba14.js.map": "/task3calc/static/js/main.5686ba14.js.map",
+    "787.34beec18.chunk.js.map": "/task3calc/static/js/787.34beec18.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c885730.css",
+    "static/js/main.5686ba14.js"
+  ]
+}
